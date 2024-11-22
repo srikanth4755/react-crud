@@ -43,7 +43,7 @@ localStorage.setItem('Checkbox Value', checkbox)
                         <Table.HeaderCell>Last Name</Table.HeaderCell>
                         <Table.HeaderCell>Checked</Table.HeaderCell>
                         <Table.HeaderCell>Update</Table.HeaderCell>
-                        <Table.HeaderCell>Delete</Table.HeaderCell>
+                        <Table.HeaderCell>Delete1</Table.HeaderCell>
                     </Table.Row>
                 </Table.Header>
 
